@@ -1,24 +1,24 @@
-#GİRİŞİMCİ - KURUMSAL İŞLETME İŞBİRLİĞİ ÇERÇEVE SÖZLEŞMESİ
+# GÄ°RÄ°ÅÄ°MCÄ° - KURUMSAL Ä°ÅLETME Ä°ÅBÄ°RLÄ°ÄÄ° Ã‡ERÃ‡EVE SÃ–ZLEÅMESÄ°
 
-İşbu çerçeve sözleşme (bundan böyle “Sözleşme” olarak anılacaktır), ../../.... tarihinde (“Yürürlük Tarihi”) .................. adresinde mukim .............. (bundan böyle "KURUMSAL İŞLETME" olarak anılacaktır) ile tanımlar bölümünde yer alan GİRİŞİM tanımına/kapsamına uyan tüm işletmeler ile yapılacak her türlü iş birliğinde geçerli ve bağlayıcı olacak şekilde tek taraflı olarak imza altına alınmıştır. 
+Ä°ÅŸbu Ã§erÃ§eve sÃ¶zleÅŸme (bundan bÃ¶yle â€œSÃ¶zleÅŸmeâ€ olarak anÄ±lacaktÄ±r), ../../.... tarihinde (â€œYÃ¼rÃ¼rlÃ¼k Tarihiâ€) .................. adresinde mukim .............. (bundan bÃ¶yle "KURUMSAL Ä°ÅLETME" olarak anÄ±lacaktÄ±r) ile tanÄ±mlar bÃ¶lÃ¼mÃ¼nde yer alan GÄ°RÄ°ÅÄ°M tanÄ±mÄ±na/kapsamÄ±na uyan tÃ¼m iÅŸletmeler ile yapÄ±lacak her tÃ¼rlÃ¼ iÅŸ birliÄŸinde geÃ§erli ve baÄŸlayÄ±cÄ± olacak ÅŸekilde tek taraflÄ± olarak imza altÄ±na alÄ±nmÄ±ÅŸtÄ±r. 
 
-Bu çerçeve sözleşme KURUMSAL İŞLETME ve iştiraklerinin GİRİŞİM tanımına/kapsamına uyan işletmelerle yapacağı tüm sözleşmeler için çatı görevini görecek olmakla birlikte, bu sözleşmenin maddeleri ile iş birliğine ait diğer sözleşmelerin herhangi bir maddesinin çelişmesi halinde, bu sözleşmenin maddeleri geçerli olacaktır.
+Bu Ã§erÃ§eve sÃ¶zleÅŸme KURUMSAL Ä°ÅLETME ve iÅŸtiraklerinin GÄ°RÄ°ÅÄ°M tanÄ±mÄ±na/kapsamÄ±na uyan iÅŸletmelerle yapacaÄŸÄ± tÃ¼m sÃ¶zleÅŸmeler iÃ§in Ã§atÄ± gÃ¶revini gÃ¶recek olmakla birlikte, bu sÃ¶zleÅŸmenin maddeleri ile iÅŸ birliÄŸine ait diÄŸer sÃ¶zleÅŸmelerin herhangi bir maddesinin Ã§eliÅŸmesi halinde, bu sÃ¶zleÅŸmenin maddeleri geÃ§erli olacaktÄ±r.
 
 TANIMLAR
-GİRİŞİM:[buraya doğru bir tanım koymak lazım]
+GÄ°RÄ°ÅÄ°M:[buraya doÄŸru bir tanÄ±m koymak lazÄ±m]
 
-KURUMSAL İŞLETME ve GİRİŞİM, birlikte "TARAFLAR", ayrı ayrı "TARAF" olarak anılacaktır.
+KURUMSAL Ä°ÅLETME ve GÄ°RÄ°ÅÄ°M, birlikte "TARAFLAR", ayrÄ± ayrÄ± "TARAF" olarak anÄ±lacaktÄ±r.
 
-1. TARAFLAR arasında gerçekleşecek olan tanışma, ürün/hizmet tanıtımı ve sunumu ile ilgili toplantıların sayısı 5'i (beşi), toplantıların her biri 3 (üç) saati geçemez.
-Toplantı adedinin bu sayıya ulaşmasının ardından KURUMSAL İŞLETME GİRİŞİM ile olan sürecini TARAFLAR arasında imza altına alınacak bir niyet mektubu ile resmiyete dökmekle yükümlüdür.
+1. TARAFLAR arasÄ±nda gerÃ§ekleÅŸecek olan tanÄ±ÅŸma, Ã¼rÃ¼n/hizmet tanÄ±tÄ±mÄ± ve sunumu ile ilgili toplantÄ±larÄ±n sayÄ±sÄ± 5'i (beÅŸi), toplantÄ±larÄ±n her biri 3 (Ã¼Ã§) saati geÃ§emez.
+ToplantÄ± adedinin bu sayÄ±ya ulaÅŸmasÄ±nÄ±n ardÄ±ndan KURUMSAL Ä°ÅLETME GÄ°RÄ°ÅÄ°M ile olan sÃ¼recini TARAFLAR arasÄ±nda imza altÄ±na alÄ±nacak bir niyet mektubu ile resmiyete dÃ¶kmekle yÃ¼kÃ¼mlÃ¼dÃ¼r.
 
-2. TARAFLAR arasında gerçekleşmesi olası bir işbirliği için bir deneme (Proof of concept - POC) ya da test süreci için hem fikir olunması halinde bu sürecin süresi 3 (üç) ayı geçemez. Deneme süreçleri için yapılan zaman ve/veya malzeme maliyeti olan her türlü hazırlık, geliştirme, üretim çalışması, TARAFLAR tarafından ortak olarak belirlenecek ve her bir günlük çalışma için 2.000 (bin) Türk Lirası'nın altında olmayacak bedelle ücretlendirilecektir. TARAFLAR'ın organize edeceği her deneme süreci ayrı ayrı 
-ücretlendirilecektir. Deneme süreçleri için yapılacak ödemeler, iş birliğinin gerçekleşmesi halinde toplam ürün/hizmet bedelinden mahsup edilecektir.
+2. TARAFLAR arasÄ±nda gerÃ§ekleÅŸmesi olasÄ± bir iÅŸbirliÄŸi iÃ§in bir deneme (Proof of concept - POC) ya da test sÃ¼reci iÃ§in hem fikir olunmasÄ± halinde bu sÃ¼recin sÃ¼resi 3 (Ã¼Ã§) ayÄ± geÃ§emez. Deneme sÃ¼reÃ§leri iÃ§in yapÄ±lan zaman ve/veya malzeme maliyeti olan her tÃ¼rlÃ¼ hazÄ±rlÄ±k, geliÅŸtirme, Ã¼retim Ã§alÄ±ÅŸmasÄ±, TARAFLAR tarafÄ±ndan ortak olarak belirlenecek ve her bir gÃ¼nlÃ¼k Ã§alÄ±ÅŸma iÃ§in 2.000 (bin) TÃ¼rk LirasÄ±'nÄ±n altÄ±nda olmayacak bedelle Ã¼cretlendirilecektir. TARAFLAR'Ä±n organize edeceÄŸi her deneme sÃ¼reci ayrÄ± ayrÄ± 
+Ã¼cretlendirilecektir. Deneme sÃ¼reÃ§leri iÃ§in yapÄ±lacak Ã¶demeler, iÅŸ birliÄŸinin gerÃ§ekleÅŸmesi halinde toplam Ã¼rÃ¼n/hizmet bedelinden mahsup edilecektir.
 
-3. TARAFLAR arasında yürürlükte olan iş birliği, KURUMSAL İŞLETME tarafından gerekçe göstermeden tek taraflı olarak fesih edilemez. Gerekçeli fesih süreçlerinde ise 1 (bir) aydan kısa olmayacak şekilde sözleşme süresinin 1/4'ü kadar ihbar süresi uygulanacaktır. İhbar süresi boyunca KURUMSAL İŞLETME iş birliği bedelini eksiksiz olarak ödemeye devam edecektir.
+3. TARAFLAR arasÄ±nda yÃ¼rÃ¼rlÃ¼kte olan iÅŸ birliÄŸi, KURUMSAL Ä°ÅLETME tarafÄ±ndan gerekÃ§e gÃ¶stermeden tek taraflÄ± olarak fesih edilemez. GerekÃ§eli fesih sÃ¼reÃ§lerinde ise 1 (bir) aydan kÄ±sa olmayacak ÅŸekilde sÃ¶zleÅŸme sÃ¼resinin 1/4'Ã¼ kadar ihbar sÃ¼resi uygulanacaktÄ±r. Ä°hbar sÃ¼resi boyunca KURUMSAL Ä°ÅLETME iÅŸ birliÄŸi bedelini eksiksiz olarak Ã¶demeye devam edecektir.
 
-4. TARAFLAR arasında gerçekleştirilecek iş birliğine özel sözleşmelerde yer alacak cezai şartların aylık bedellerinin toplamı, GİRİŞİM'in iş birliği kapsamında elde edeceği 1 (bir) aylık bedeli aşamaz.
+4. TARAFLAR arasÄ±nda gerÃ§ekleÅŸtirilecek iÅŸ birliÄŸine Ã¶zel sÃ¶zleÅŸmelerde yer alacak cezai ÅŸartlarÄ±n aylÄ±k bedellerinin toplamÄ±, GÄ°RÄ°ÅÄ°M'in iÅŸ birliÄŸi kapsamÄ±nda elde edeceÄŸi 1 (bir) aylÄ±k bedeli aÅŸamaz.
 
-5. TARAFLAR arasında gerçekleştirilecek iş birliğine ait ödemelerin vade süreleri 30 (otuz) iş gününü aşamaz. Herhangi bir ödemede yaşanacak 3 (üç) aylık gecikme GİRİŞİM'e sözleşmeyi hiç bir cezai yaptırım olmadan tek taraflı olarak fesih etme hakkı verir.
+5. TARAFLAR arasÄ±nda gerÃ§ekleÅŸtirilecek iÅŸ birliÄŸine ait Ã¶demelerin vade sÃ¼releri 30 (otuz) iÅŸ gÃ¼nÃ¼nÃ¼ aÅŸamaz. Herhangi bir Ã¶demede yaÅŸanacak 3 (Ã¼Ã§) aylÄ±k gecikme GÄ°RÄ°ÅÄ°M'e sÃ¶zleÅŸmeyi hiÃ§ bir cezai yaptÄ±rÄ±m olmadan tek taraflÄ± olarak fesih etme hakkÄ± verir.
 
-6. KURUMSAL İŞLETME'nin bu sözleşmeye aykırı hareket etmesi halinde, bu aykırılık ile sınırlık kalmak üzere, aykırılık hakkında 3.partilere verilecek bilgi ya da bu aykırılık hakkında GİRİŞİM'in kendine ait mecralar üzerinden yapacağı açıklamalar, gizlilik sözleşmelerinin ihlali ya da ticari sırrı açıklamak olarak değerlendirilemez ve bu sebeple GİRİŞİM hakkında gizliliği bozmaktan ya da ticari sırrı ifşa etmekten dolayı hukuki yaptırım uygulanamaz.
+6. KURUMSAL Ä°ÅLETME'nin bu sÃ¶zleÅŸmeye aykÄ±rÄ± hareket etmesi halinde, bu aykÄ±rÄ±lÄ±k ile sÄ±nÄ±rlÄ±k kalmak Ã¼zere, aykÄ±rÄ±lÄ±k hakkÄ±nda 3.partilere verilecek bilgi ya da bu aykÄ±rÄ±lÄ±k hakkÄ±nda GÄ°RÄ°ÅÄ°M'in kendine ait mecralar Ã¼zerinden yapacaÄŸÄ± aÃ§Ä±klamalar, gizlilik sÃ¶zleÅŸmelerinin ihlali ya da ticari sÄ±rrÄ± aÃ§Ä±klamak olarak deÄŸerlendirilemez ve bu sebeple GÄ°RÄ°ÅÄ°M hakkÄ±nda gizliliÄŸi bozmaktan ya da ticari sÄ±rrÄ± ifÅŸa etmekten dolayÄ± hukuki yaptÄ±rÄ±m uygulanamaz.
