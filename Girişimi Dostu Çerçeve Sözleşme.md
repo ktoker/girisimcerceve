@@ -1,4 +1,4 @@
-#GÝRÝÞÝMCÝ - KURUMSAL ÝÞLETME ÝÞBÝRLÝÐÝ ÇERÇEVE SÖZLEÞMESÝ
+# GÝRÝÞÝMCÝ - KURUMSAL ÝÞLETME ÝÞBÝRLÝÐÝ ÇERÇEVE SÖZLEÞMESÝ
 
 Ýþbu çerçeve sözleþme (bundan böyle “Sözleþme” olarak anýlacaktýr), ../../.... tarihinde (“Yürürlük Tarihi”) .................. adresinde mukim .............. (bundan böyle "KURUMSAL ÝÞLETME" olarak anýlacaktýr) ile tanýmlar bölümünde yer alan GÝRÝÞÝM tanýmýna/kapsamýna uyan tüm iþletmeler ile yapýlacak her türlü iþ birliðinde geçerli ve baðlayýcý olacak þekilde tek taraflý olarak imza altýna alýnmýþtýr. 
 
